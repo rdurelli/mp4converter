@@ -1,2 +1,7 @@
-package com.example.models;public enum NotificationType {
+package com.example.models;
+
+public enum NotificationType {
+    SMS,
+    EMAIL,
+    SMSAndEMAIL
 }
